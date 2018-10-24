@@ -8,3 +8,4 @@ or
 ```
 npm start
 ```
+and go to https://localhost:3000 to test this app
